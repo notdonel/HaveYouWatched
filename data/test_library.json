@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1,
+      "title": "Steins;Gate",
+      "type": "anime",
+      "status": "completed",
+      "rating": 9,
+      "notes": "Great time-travel story.",
+      "added_at": "2026-09-11T19:00:00Z",
+      "updated_at": "2026-09-11T19:00:00Z"
+    }
+  ]
+}
